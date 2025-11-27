@@ -32,5 +32,6 @@ System.out.println(c[0]);
 //You are successfully logged in.
 
 System.out.println("New Jined member code - First code updatd ");
+System.out.println("New Jined member code - Second code updatd");
 		
 }}
