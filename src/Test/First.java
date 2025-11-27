@@ -30,5 +30,7 @@ String c[]=b[1].split(" ");
 System.out.println(c[0]);
 
 //You are successfully logged in.
+
+System.out.println("New Jined member code - First code updatd ");
 		
 }}
